@@ -16,4 +16,11 @@ createForm.addEventListener("submit", async(e)=> {
         },
         body: JSON.stringify(reqBody)
     })
+
+    
+	window.location.href = '/'
+
 })
+
+
+	
